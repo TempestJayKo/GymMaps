@@ -1,0 +1,11 @@
+{
+  "name": "GymMaps",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Load custom primitive maps in RUMBLE with bundled courses, map commands, audio triggers, and optional training tools.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3",
+    "UlvakSkillz-RumbleModdingAPI-5.4.4",
+    "Reverb_and___and_Spice-UIFramework-0.10.2"
+  ]
+}
